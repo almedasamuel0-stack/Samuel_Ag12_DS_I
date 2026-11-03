@@ -6,9 +6,11 @@
   - 📊 Aplicações básicas de CSS para organização de Sites
 
 ## ⚒️ As tecnologias utilizadas
-<img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<div>
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+</div>
 
 ## ⚙️ Pré-requisitos
 Antes de instalar, certifique-se de ter instalado um **ambiente de desenvolvimento (ex. Vscode), extensões essenciais de manipulação/manipulação de [Python](https://www.python.org/) e extensões [Git](https://git-scm.com).**
